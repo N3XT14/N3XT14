@@ -5,8 +5,8 @@
 *I build things across the stack — voice AI agents, mobile apps, dashboards, ML pipelines.*  
 *I care about shipping something real, not just writing code.*
 
-<!-- **[→ yoswal.vercel.app](https://yoswal.vercel.app)** &nbsp;·&nbsp; **[→ LinkedIn]([https://linkedin.com/in/YOUR_SLUG](https://www.linkedin.com/in/yashoswal05/))** -->
-**[→ LinkedIn]([https://linkedin.com/in/YOUR_SLUG](https://www.linkedin.com/in/yashoswal05/))**
+<!-- **[→ yoswal.vercel.app](https://yoswal.vercel.app)** -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashoswal05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashoswal05/)
 
 </div>
 
@@ -171,6 +171,6 @@ What it does — one line.
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=N3XT14&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true)](https://github.com/N3XT14)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=N3XT14&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
