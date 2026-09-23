@@ -14,24 +14,24 @@
 
 ---
 
-## 🏆 Hackathon Wins
+## 🏆 Hackathons
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **micro1 Agentic Workflows Hackathon · 2026**
 
-Voice AI agent that handles inbound clinic calls — offers a slot, gets a yes/no, confirms or escalates. No human in the loop.
+Voice AI agent for inbound clinic calls — offers a slot, gets a yes/no, confirms or escalates. No human in the loop.
 
 Iterated through 4 eval cycles: **70% → 96.67%** success rate.
 
-`FastAPI` `Faster-Whisper` `Groq` `Edge-TTS`
+FastAPI · Faster-Whisper · Groq · Edge-TTS
 
 **[→ voice-clinic-agent](https://github.com/N3XT14/voice-clinic-agent)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **Smart India Hackathon · 2019 — 🥇 National Winner**
 
@@ -39,9 +39,20 @@ Clinical trials management platform connecting patients, doctors, and researcher
 
 Won at the national level out of thousands of teams.
 
-`Angular` `Ionic` `Firebase` `TypeScript`
+Angular · Ionic · Firebase · TypeScript
 
 **[→ Clinical-Trials](https://github.com/N3XT14/Clinical-Trials)**
+
+</td>
+<td width="33%" valign="top">
+
+**Hackathon Entry · Result Awaited**
+
+Food tracking web app — scan or search what you eat, track nutrition, get insights. Built under hackathon constraints.
+
+Next.js · TypeScript · Tailwind · shadcn/ui
+
+**[→ I-KNOW-WHAT-I-EAT](https://github.com/N3XT14/I-KNOW-WHAT-I-EAT)** · [live ↗](https://i-know-what-i-eat.vercel.app)
 
 </td>
 </tr>
@@ -49,62 +60,70 @@ Won at the national level out of thousands of teams.
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
+
+*A few things worth looking at — for everything else, [browse all repos →](https://github.com/N3XT14?tab=repositories)*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI & Agents
+**AI & Agents**
+
+<hr>
 
 **[voice-clinic-agent](https://github.com/N3XT14/voice-clinic-agent)**  
-Real-time voice negotiation for telemedicine. Ranked slot queue, decline handling, off-topic guardrails, and a full eval harness.  
-`FastAPI` `Groq` `Faster-Whisper` `Edge-TTS` `WebSocket`
+Real-time voice negotiation for telemedicine. Ranked slot queue, decline handling, off-topic guardrails, full eval harness.  
+*FastAPI · Groq · Faster-Whisper · Edge-TTS · WebSocket*
 
 <br>
 
-### Fintech & Data
+**Fintech & Data**
+
+<hr>
 
 **[Financial-Dashboard](https://github.com/N3XT14/Financial-Dashboard)**  
-Upload a bank statement → get a visual breakdown of spending. Dockerized, Nginx-fronted.  
-`Python` `Flask` `Docker` `Nginx` `Gunicorn`
+Upload a bank statement → visual breakdown of spending. Dockerized, Nginx-fronted.  
+*Python · Flask · Docker · Nginx*
 
 **[mining_on_stock](https://github.com/N3XT14/mining_on_stock)**  
 Stock price forecasting + trading strategy optimization. Checkpoints and accuracy results logged.  
-`Python` `Jupyter` `ML`
+*Python · Jupyter · ML*
 
 <br>
 
-### Backend
+**Backend**
+
+<hr>
 
 **[SpringCRUD](https://github.com/N3XT14/SpringCRUD)**  
 Spring + Hibernate CRUD app hosted on AWS. Built to learn the Java backend stack end-to-end.  
-`Java` `Spring` `Hibernate` `Maven` `AWS`
+*Java · Spring · Hibernate · Maven · AWS*
 
 </td>
 <td width="50%" valign="top">
 
-### Full-Stack Web
+**Full-Stack Web**
+
+<hr>
 
 **[Pulsatio](https://github.com/N3XT14/Pulsatio)**  
 Social activity analytics dashboard — property + user management, Google Auth, Cloudinary images. Built from Figma.  
-`React` `Node.js` `MongoDB` `Refine` `Material UI`
-
-**[I-KNOW-WHAT-I-EAT](https://github.com/N3XT14/I-KNOW-WHAT-I-EAT)**  
-Food tracking app. Live → [i-know-what-i-eat.vercel.app](https://i-know-what-i-eat.vercel.app)  
-`Next.js` `TypeScript` `Tailwind` `shadcn/ui`
+*React · Node.js · MongoDB · Refine · Material UI*
 
 <br>
 
-### Mobile
+**Mobile**
+
+<hr>
 
 **[Instagram-clone](https://github.com/N3XT14/Instagram-clone)**  
 Full Instagram feature set: feed, likes, comments, bookmarks, follow/unfollow, search. One codebase → Android, iOS, Web.  
-`Flutter` `Firebase` `Dart`
+*Flutter · Firebase · Dart*
 
 **[jain_panchang](https://github.com/N3XT14/jain_panchang)**  
 Cross-platform Jain cultural calendar with ML Kit. Built for the community.  
-`Flutter` `Dart` `ML Kit`
+*Flutter · Dart · ML Kit*
 
 </td>
 </tr>
@@ -143,27 +162,27 @@ What it does — one line.
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Java</code> <code>Dart</code> <code>Go</code> <code>C++</code></td>
+<td>Python · TypeScript · JavaScript · Java · Dart · Go · C++</td>
 </tr>
 <tr>
 <td><b>Web</b></td>
-<td><code>Next.js</code> <code>React</code> <code>Angular</code> <code>Node.js</code> <code>Ionic</code> <code>Tailwind CSS</code></td>
+<td>Next.js · React · Angular · Node.js · Ionic · Tailwind CSS</td>
 </tr>
 <tr>
 <td><b>Mobile</b></td>
-<td><code>Flutter</code> — Android · iOS · Web from one codebase</td>
+<td>Flutter — Android · iOS · Web from one codebase</td>
 </tr>
 <tr>
 <td><b>Backend & Infra</b></td>
-<td><code>FastAPI</code> <code>Flask</code> <code>Spring</code> <code>Hibernate</code> <code>Docker</code> <code>Nginx</code> <code>AWS</code></td>
+<td>FastAPI · Flask · Spring · Hibernate · Docker · Nginx · AWS</td>
 </tr>
 <tr>
 <td><b>AI / ML</b></td>
-<td><code>Groq</code> <code>Faster-Whisper</code> <code>Edge-TTS</code> <code>Jupyter</code></td>
+<td>Groq · Faster-Whisper · Edge-TTS · Jupyter</td>
 </tr>
 <tr>
 <td><b>Data</b></td>
-<td><code>Firebase</code> <code>MongoDB</code> <code>Cloudinary</code></td>
+<td>Firebase · MongoDB · Cloudinary</td>
 </tr>
 </table>
 
